@@ -1,9 +1,12 @@
-README
+##Early-Warning Model for Large-Scale Power-Outages in Michigan 
+### Master's Thesis - Code and Pipelines
 
-This repository contains the code and data pipelines used in my master's thesis, which focuses on forecasting the large-scaled summer outages in Michigan using open source EAGLE-I records and wether and population features. The objective of this project is to build an early-warning model that predicts weather-induced large-scale outages (more than 50,000 customers) 48 hours in advance. The project includes:
+This repository contains the code and data pipelines used in my master's thesis, which develops a 48-hour early-warning model for weather-driven large-scale outages (more than 50,000 customers) in Michigan. The project uses entirely open-source EAGLE-I outage records, METAR airport data, U.S. Census population density, and GIS layers. 
 
-- Data prerocessing (outage, weather, population datasets)
-- Feature engineering (lags, rolling statistics, IDW)
+1. Project Structure
+
+- feature/ outage and meteorological data preprocessing; feature engineering(lags, rolling statistics, IDW)
+- 
 - Two-Stage Model
     - Stage-1 - Logistic Regression Classifier (anomaly outage in 48h == class 1)
     - Stage-2 - LSTM Regression (defines outage magnitude)
