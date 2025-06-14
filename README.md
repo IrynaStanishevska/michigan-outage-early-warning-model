@@ -24,7 +24,7 @@ This repository contains the code and data pipelines used in my master's thesis,
 
 - docs/ Interactive Visualizations available below
 
-  2, Pipeline:
+  2. Pipeline:
 
   1. Data preprocessing (cleaning, hourly aggregation, spatial interpolation for METAR observations)
   2. Feature engineering (lags, rolling stats, inverse-distance wighting, population density)
