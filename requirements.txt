@@ -4,3 +4,4 @@ sklearn: 1.6.1
 tensorflow: 2.18.0
 joblib: 1.5.1
 geopandas
+scipy
