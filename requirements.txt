@@ -1,0 +1,6 @@
+numpy: 1.24.3
+pandas: 2.2.2
+sklearn: 1.6.1
+tensorflow: 2.18.0
+joblib: 1.5.1
+geopandas
