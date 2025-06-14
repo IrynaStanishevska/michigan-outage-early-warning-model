@@ -40,8 +40,8 @@ Raw data available [here](https://liveuis-my.sharepoint.com/:f:/g/personal/27472
       - conditional MASE computed only on peak values
   6. Visualization dashbords (interactive plotly)
 
-      [48-Hour Predict vs. Grounnd Truth, Test 2022](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_48h_predict_vs_actual.html)
+      [48-Hour Predict vs. Actual Peaks, Test (2022)](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_48h_predict_vs_actual.html)
      
-      [24-Hour Lead Peacks vs. Ground Truth](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_24h_lead_peaks_vs_actual.html)
+      [24-Hour Lead Peacks vs. Actual Peaks, Test (2022)](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_24h_lead_peaks_vs_actual.html)
 
 
