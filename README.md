@@ -1,4 +1,4 @@
-##Early-Warning Model for Large-Scale Power-Outages in Michigan 
+## Early-Warning Model for Large-Scale Power-Outages in Michigan 
 ### Master's Thesis - Code and Pipelines
 
 This repository contains the code and data pipelines used in my master's thesis, which develops a 48-hour early-warning model for weather-driven large-scale outages (more than 50,000 customers) in Michigan. The project uses entirely open-source EAGLE-I outage records, METAR airport data, U.S. Census population density, and GIS layers. 
@@ -39,6 +39,7 @@ This repository contains the code and data pipelines used in my master's thesis,
   6. Visualization dashbords (interactive plotly)
 
       [48-Hour Predict vs. Grounnd Truth, Test 2022](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_48h_predict_vs_actual.html)
+     
       [24-Hour Lead Peacks vs. Ground Truth](https://irynastanishevska.github.io/michigan-outage-early-warning-model/plot_24h_lead_peaks_vs_actual.html)
 
 
