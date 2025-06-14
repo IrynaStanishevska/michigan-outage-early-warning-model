@@ -3,6 +3,8 @@
 
 This repository contains the code and data pipelines used in my master's thesis, which develops a 48-hour early-warning model for weather-driven large-scale outages (more than 50,000 customers) in Michigan. The project uses entirely open-source EAGLE-I outage records, METAR airport data, U.S. Census population density, and GIS layers. 
 
+Raw data available [here](https://liveuis-my.sharepoint.com/:f:/g/personal/274725_uis_no/EmzChQ9PV4BFlcbaQU9pRI0BkvzTZNqL7Dbl6FCIgNM_kg?e=mWYNDB)
+
 1. Project Structure
 
 - spatial_interpolation/
